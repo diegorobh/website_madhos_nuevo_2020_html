@@ -158,3 +158,15 @@
     width: 900px;
     margin:0px auto;
 }
+
+/* ******************* INICIA SECCION CLIENTES ************************ */
+
+.seccion_clientes{
+    width: 910px;
+    border: solid #00C4EF 3px;
+    padding: 6px 8px;
+    margin: 0px auto;
+    border-radius: 6px;
+}
+
+/* ******************* FINALIZA SECCION CLIENTES ************************ */
